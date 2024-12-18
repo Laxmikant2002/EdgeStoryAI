@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 20px; 
+    background-color: #f4f4f9; 
+    text-align: center;
+}
+h1 { 
+    color: #333; 
+}
+input, button {
+    padding: 10px; 
+    margin: 10px; 
+    font-size: 1rem; 
+    border-radius: 5px; 
+    border: 1px solid #ddd;
+}
+button { 
+    background-color: #007bff; 
+    color: #fff; 
+    border: none; 
+    cursor: pointer; 
+}
+button:hover { 
+    background-color: #0056b3; 
+}
+#storyOutput {
+    margin-top: 20px; 
+    background: #fff; 
+    padding: 15px; 
+    border-radius: 5px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    white-space: pre-wrap; 
+    text-align: left;
+}
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+.dark-mode input, .dark-mode button {
+    background-color: #555;
+    color: #fff;
+    border: 1px solid #444;
+}
+.dark-mode button:hover {
+    background-color: #777;
+}
