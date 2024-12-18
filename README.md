@@ -6,7 +6,7 @@ EdgeStory AI is a simple web application that allows users to generate AI-powere
 
 1. Clone the repository:
     ```sh
-    git clone git@github.com:Laxmikant2002/EdgeStoryAI.git
+    git clone https://github.com/Laxmikant2002/EdgeStoryAI/tree/main
     cd EdgeStory-AI
     ```
 
