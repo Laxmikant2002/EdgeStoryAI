@@ -1,4 +1,4 @@
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "";
 
 
 document.getElementById("generateBtn").addEventListener("click", async () => {
