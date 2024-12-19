@@ -1,4 +1,4 @@
-const EDGECHAINS_API_KEY = "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";
+const EDGECHAINS_API_KEY = "";
 const EDGECHAINS_NODE_URL = "https://api.smith.langchain.com";
 
 
